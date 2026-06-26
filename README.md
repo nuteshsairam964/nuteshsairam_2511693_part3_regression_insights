@@ -152,6 +152,14 @@ The project will be completed in the following stages:
 * Linear Regression
 * Multiple Linear Regression
 
+Data Quality Checks
+
+- Verified the dataset for duplicate records; no duplicate rows were found.
+- Identified missing values in competitor_distance_km (6) and customer_rating (8).
+- Replaced missing values using the respective column mean.
+- Verified that numerical and categorical variables had appropriate data types.
+- Performed basic validation to ensure there were no invalid or impossible values.
+
 ---
 
 ession models, and business insights are completed during the project.
